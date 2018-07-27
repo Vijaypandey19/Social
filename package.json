@@ -1,0 +1,22 @@
+{
+  "name": "node_fb",
+  "version": "1.0.0",
+  "description": "A Simple Social Networking App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijaypandey19/Social.git"
+  },
+  "keywords": [
+    "SocialApp"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijaypandey19/Social/issues"
+  },
+  "homepage": "https://github.com/Vijaypandey19/Social#readme"
+}
